@@ -1,0 +1,19 @@
+{
+  "name": "edicof_backend_test",
+  "version": "1.0.0",
+  "description": "Test Backend Edicof",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonny983/Edicof_Backend_Test.git"
+  },
+  "author": "JMera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonny983/Edicof_Backend_Test/issues"
+  },
+  "homepage": "https://github.com/jhonny983/Edicof_Backend_Test#readme"
+}
